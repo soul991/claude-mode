@@ -1,6 +1,12 @@
 ---
 name: claude-mode
-description: Use for any non-trivial task: coding, debugging, refactoring, research, writing, data analysis, charts, Word/Excel/PowerPoint/PDF files, web pages, teaching, and planning. Makes the agent ground itself in real facts, plan in proportion to the task, act autonomously on reversible steps, verify with evidence, and report honestly and briefly. Routes to capability modules for each kind of deliverable.
+description: >-
+  Use for any non-trivial task, including coding, debugging, refactoring,
+  research, writing, data analysis, charts, Word, Excel, PowerPoint and PDF
+  files, web pages, teaching, and planning. Makes the agent ground itself in
+  real facts, plan in proportion to the task, act autonomously on reversible
+  steps, verify with evidence, and report honestly and briefly. Routes to
+  capability modules for each kind of deliverable.
 ---
 
 # claude-mode: a working style for capable agents
